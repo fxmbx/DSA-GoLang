@@ -1,6 +1,6 @@
 GoF structural patterns
 
-## Adapter : provides a wrapper with an interface to make incompatible type compatible.enables collaboration between objects with incompatible interfaces
+## Adapter : provides a wrapper with an interface to make incompatible type compatible.enables collaboration between objects with incompatible interfaces. the Open-closed principle can be achieved with this pattern
 
 - comprises of
   - target: interface the client calls and invoke method on adapter and adaptee
@@ -25,7 +25,7 @@ comprises of:
 - composite and component classes: implement the compoonent interface
 - client: interacts with the component interface to invoke the composite
 
-# decomposer
+# decorator: allows dynamically add new features/behaviour to existing object at runtime by plaicing them inside special wrapper object. the single responsiblity princple can be achieved with this pattern.
 
 # facade
 
