@@ -25,10 +25,10 @@ comprises of:
 - composite and component classes: implement the compoonent interface
 - client: interacts with the component interface to invoke the composite
 
-# decorator: allows dynamically add new features/behaviour to existing object at runtime by plaicing them inside special wrapper object. the single responsiblity princple can be achieved with this pattern. 💅
+## decorator: allows dynamically add new features/behaviour to existing object at runtime by plaicing them inside special wrapper object. the single responsiblity princple can be achieved with this pattern. 💅
 
-# facade : (the principal front of a building) is used as an abstract subsystem interface with a helper. it hides complexity(implementation details) of underlying system by providing simple/single interface.🪄
+## facade : (the principal front of a building) is used as an abstract subsystem interface with a helper. it hides complexity(implementation details) of underlying system by providing simple/single interface.🪄
 
-# flyweight
+# flyweight: allows programs to support large numbers of objects while keeping memory usage low. allows sharing parts of the object’s state among multiple objects. Flyweight saves RAM memory by caching the same information used by different objects.
 
 # private class
