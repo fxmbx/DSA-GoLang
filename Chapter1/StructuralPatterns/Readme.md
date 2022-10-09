@@ -29,6 +29,14 @@ comprises of:
 
 ## facade : (the principal front of a building) is used as an abstract subsystem interface with a helper. it hides complexity(implementation details) of underlying system by providing simple/single interface.🪄
 
-# flyweight: allows programs to support large numbers of objects while keeping memory usage low. allows sharing parts of the object’s state among multiple objects. Flyweight saves RAM memory by caching the same information used by different objects.
+## flyweight: allows programs to support large numbers of objects while keeping memory usage low. allows sharing parts of the object’s state among multiple objects. Flyweight saves RAM memory by caching the same information used by different objects.
 
-# private class
+## private class
+
+## proxy pattern: provides an intermediaryto control and access an object. it forwards to a real object and acts as an interface to others
+
+comprises of:
+
+- Subject: an interface for the real object
+- RealSubject: created and maintained as a reference in the proxy
+- proxy: used to access the real object
