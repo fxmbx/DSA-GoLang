@@ -27,7 +27,7 @@ comprises of:
 
 # decorator: allows dynamically add new features/behaviour to existing object at runtime by plaicing them inside special wrapper object. the single responsiblity princple can be achieved with this pattern. 💅
 
-# facade
+# facade : (the principal front of a building) is used as an abstract subsystem interface with a helper. it hides complexity(implementation details) of underlying system by providing simple/single interface.🪄
 
 # flyweight
 
